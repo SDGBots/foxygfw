@@ -85,3 +85,7 @@ FoxyProxy Pattern Help（扩展自带帮助页面）
 [Syntax · gfwlist/gfwlist Wiki](https://github.com/gfwlist/gfwlist/wiki/Syntax)
 
 [gfwlist / apollyon](https://github.com/gfwlist/apollyon/blob/master/checkRules.py)
+
+## Credit
+This is a fork (forked on 1/26/2021 PST) of the repo from scp-079 (https://github.com/scp-079) project.
+
